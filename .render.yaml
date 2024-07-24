@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: weather-app
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    env:
+      NODE_VERSION: '18.x'  # Specify your Node.js version here
