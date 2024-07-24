@@ -13,6 +13,11 @@ The application is hosted sucessfully by Render web hosting service just click o
 ## Setup
 
 ```
-npm i && npm start
+In order to run this app on your system download the required files.
+It should be noted that you should have Node installed on your machine.
+Download and extract the zip file and head to the root directory.
+Write these commands and this will run on your default browser
+-npm install
+-npm start
 ```
 
