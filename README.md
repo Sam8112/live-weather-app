@@ -1,5 +1,5 @@
 # live-weather-app
-Full-Stack web application showcasing live weather using API calls.
+Full-Stack web application showcasing live weather using API calls.<br/>
 The application is hosted sucessfully by Render web hosting service just click on live demo.
 
 <p align="center">
